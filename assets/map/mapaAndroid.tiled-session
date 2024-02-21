@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapaProgreso.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Grass": {
+            "scaleInDock": 2
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Hills.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "mapaProgreso.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 104.66666666666663,
+                "y": 25.333333333333258
+            }
+        },
+        "mapaProgreso.tmx#TX Plant": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso.tmx#TX Props": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapaProgreso.tmx#TX Struct": {
+            "scaleInDock": 0.75
+        },
+        "mapaProgreso.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Usuario/Desktop/Escritorio2/juegoAndroid",
+    "last.imagePath": "C:/Users/Usuario/Desktop/juegoAndroid/Pixel Art Top Down - Basic/Texture",
+    "map.fixedSize": false,
+    "map.height": 15,
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 25,
+    "openFiles": [
+        "Hills.tsx",
+        "mapaProgreso.tmx"
+    ],
+    "project": "mapaAndroid.tiled-project",
+    "recentFiles": [
+        "Hills.tsx",
+        "mapaProgreso.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
