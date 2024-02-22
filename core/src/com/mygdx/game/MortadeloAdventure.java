@@ -56,7 +56,7 @@ public class MortadeloAdventure extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 
 		//Cargamos el mapa de baldosas desde la carpeta de assets
-		mapa = new TmxMapLoader().load("map/mapaProgreso.tmx");
+		mapa = new TmxMapLoader().load("map/mapaProgreso3.tmx");
 		mapaRenderer = new OrthogonalTiledMapRenderer(mapa);
 
 //Determinamos el alto y ancho del mapa de baldosas. Para ello necesitamos extraer la capa
@@ -150,7 +150,7 @@ public class MortadeloAdventure extends ApplicationAdapter {
 
 //Dibujamos las capas del mapa
 //Posteriormente quitaremos la capa de profundidad para intercalar a los personajes
-		int[] capas = {0, 1, 2, 3, 4, 5, 6, 7};
+		int[] capas = {0, 1, 2, 3, 4, 5, 6};
 		mapaRenderer.render(capas);
 	}
 	

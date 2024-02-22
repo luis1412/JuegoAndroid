@@ -3,14 +3,15 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mapaProgreso.tmx",
+    "activeFile": "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "Todos los archivos (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "#Grass": {
             "scaleInDock": 2
@@ -18,16 +19,65 @@
         ":/automap-tiles.tsx": {
             "scaleInDock": 1
         },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx": {
+            "scale": 0.556640625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 253.30526315789473,
+                "y": 16.168421052631516
+            }
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx#TX Plant": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx#TX Props": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx#TX Struct": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 836,
+                "y": 488
+            }
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx#TX Plant": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx#TX Props": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx#TX Struct": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx#TX Tileset Wall": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Hills.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
         "mapaProgreso.tmx": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 104.66666666666663,
-                "y": 25.333333333333258
+                "x": 116,
+                "y": 18.66666666666663
             }
         },
         "mapaProgreso.tmx#TX Plant": {
@@ -45,25 +95,51 @@
         },
         "mapaProgreso.tmx#TX Tileset Wall": {
             "scaleInDock": 1
+        },
+        "mapaProgreso3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 446.6666666666666,
+                "y": 526.6666666666667
+            }
+        },
+        "mapaProgreso3.tmx#TX Plant": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso3.tmx#TX Props": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso3.tmx#TX Struct": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso3.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "mapaProgreso3.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
         }
     },
     "last.exportedFilePath": "C:/Users/Usuario/Desktop/Escritorio2/juegoAndroid",
-    "last.imagePath": "C:/Users/Usuario/Desktop/juegoAndroid/Pixel Art Top Down - Basic/Texture",
-    "map.fixedSize": false,
-    "map.height": 15,
+    "last.imagePath": "C:/Users/Usuario/Desktop/Escritorio2/juegoAndroid/Pixel Art Top Down - Basic/Texture",
+    "map.fixedSize": true,
+    "map.height": 33,
     "map.lastUsedExportFilter": "Todos los archivos (*)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 32,
     "map.tileWidth": 32,
-    "map.width": 25,
+    "map.width": 28,
     "openFiles": [
-        "Hills.tsx",
-        "mapaProgreso.tmx"
+        "mapaProgreso3.tmx",
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx"
     ],
     "project": "mapaAndroid.tiled-project",
     "recentFiles": [
-        "Hills.tsx",
-        "mapaProgreso.tmx"
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso3.tmx",
+        "mapaProgreso3.tmx",
+        "C:/Users/Usuario/Desktop/JuegoAndroid/assets/map/mapaProgreso.tmx",
+        "mapaProgreso.tmx",
+        "Hills.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFormat": "tsx",

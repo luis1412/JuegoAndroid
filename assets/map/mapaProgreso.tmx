@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" infinite="1" nextlayerid="10" nextobjectid="1">
  <editorsettings>
-  <export target="mapaProgreso.tmx" format="tmx"/>
+  <export target="mapaProgreso2..tmx" format="tmx"/>
  </editorsettings>
  <tileset firstgid="1" name="TX Tileset Grass" tilewidth="32" tileheight="32" tilecount="64" columns="8">
   <image source="Pixel Art Top Down - Basic/Texture/TX Tileset Grass.png" width="256" height="256"/>
