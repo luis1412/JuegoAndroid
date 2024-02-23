@@ -349,7 +349,7 @@ public class MortadeloAdventure extends ApplicationAdapter implements InputProce
 
 //Dibujamos las capas del mapa
 //Posteriormente quitaremos la capa de profundidad para intercalar a los personajes
-		int[] capas = {0, 1, 2, 3, 4};
+		int[] capas = {0, 1, 2, 3};
 		mapaRenderer.render(capas);
 
 		//ANIMACION DEL JUGADOR
@@ -366,9 +366,6 @@ public class MortadeloAdventure extends ApplicationAdapter implements InputProce
 
 
 		//Pintamos la capa de profundidad del mapa de baldosas.
-		capas = new int[1];
-		capas[0] =4; //Número de la capa de profundidad2
-		mapaRenderer.render(capas);
 //cuadroActual contendrá el frame que se va a mostrar en cada momento.
 		TextureRegion cuadroActual = jugador.getKeyFrame(stateTime);
 		sb.draw(cuadroActual, posicionJugador.x, posicionJugador.y);
@@ -386,6 +383,9 @@ public class MortadeloAdventure extends ApplicationAdapter implements InputProce
 		}
 		stateTimeNPC += Gdx.graphics.getDeltaTime();
 
+		capas = new int[1];
+		capas[0] =4; //Número de la capa de profundidad2
+		mapaRenderer.render(capas);
 
 		sb.end();
 
